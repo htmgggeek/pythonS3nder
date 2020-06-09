@@ -1,0 +1,30 @@
+to use this project you should have somehings intalled such as 
+
+* python <obviously>
+* install git
+* install latest version of curl <make sure it's installed in C drive 
+                                  using this command
+                                  
+                                  
+only after then we can use the python command properly
+
+create a file and name it to anthing <as an example : python sender>
+    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+    python get-pip.py
+
+    python -m pip install pyautogui
+
+    Cd '' the trajectory of your file '' 
+
+    git clone https://github.com/hoppuman/TikTokHack.git
+
+    Cd '' the trajectory of the file downloaded '' 
+
+put what ever you desire to be sent to your friend
+
+    python shrek.py
+   
+after sending that command you only got 2 seconds for it to start
+
+if you wish for it to stop quickly switch to the console and click on < ctrl + c >
